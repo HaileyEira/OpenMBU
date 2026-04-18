@@ -13,15 +13,9 @@ The game stayed popular throughout the Xbox 360's lifespan, ultimately selling m
 
 OpenMBU revives the original with new features like controller options, fan-made content, Discord support, and more.
 
-### Discord Server
+### Discord Server   
 
 Join our [Discord community](https://discord.gg/SBqT5AxBaY)! A cozy space to chat and hang out with others <img src="https://cdn.discordapp.com/emojis/1307430123280011469.webp?size=128&animated=true" width="19" height="19">
-
-### Together for OpenMBU
-OpenMBU is community‑driven, open to anyone who wants to contribute. We'd love devs to join the team and help shape the game. If you're inspired and skilled in C++, fullstack web dev, or game dev, you can reach out to Hailey on [her blog](https://haileyeira.com), [Twitter](https://x.com/haileyeira), or [Discord](https://discord.gg/SPRKPKwAe7) <img src="https://cdn.discordapp.com/emojis/1313720695481696297.webp?size=128&animated=true" width="19" height="19">
-
-### ✨ Looking for new logo + mascot ✨
-We're looking to give OpenMBU a new logo and anime-style mascots. If you're an artist or designer and want to help make it happen, we'd love if you reached out. More details in this [blog post](https://haileyeira.com/2026/01/15/looking-for-a-new-logo-mascot-designs-for-openmbu/).
 
 ### The Team
 <img src="https://cdn.discordapp.com/emojis/1181352475983356005.webp?size=128" width="20"/> [MattP](https://github.com/HumanGamer) ~ Lead Dev<br>
